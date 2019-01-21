@@ -1,3 +1,6 @@
+//Author= Sourav Yadav
+//Version= 3.3.6
+
 import java.util.Scanner;
 public class rhombus
 {

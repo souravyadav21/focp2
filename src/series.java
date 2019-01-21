@@ -1,3 +1,6 @@
+//Author= Sourav Yadav
+//Version= 3.5.5
+
 import java.util.Scanner;
 class series
 {

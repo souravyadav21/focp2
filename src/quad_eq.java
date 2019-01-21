@@ -1,3 +1,7 @@
+//Author= Sourav Yadav
+//Version= 4.5.4
+
+
 import java.util.Scanner;
 public class quad_eq
 

@@ -1,3 +1,6 @@
+//Author= Sourav Yadav
+//Version= 2.0.4
+
 import java.util.*;
 import java.lang.*;
 
@@ -15,9 +18,9 @@ class Circle
     }
     double area()
     {
-     double ar;
-     ar=Math.PI*r*r;
-     return ar;
+     double a;
+     a=Math.PI*r*r;
+     return a;
 
     }
     double circumference()
@@ -28,7 +31,7 @@ class Circle
     }
     void display(double ar,double circum)
     {
-    System.out.println("area and circumference are" +ar+" " +circum);
+    System.out.println("area and circumference are" +a+" " +circum);
     }
 
 }

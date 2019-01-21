@@ -1,3 +1,6 @@
+//Author= Sourav Yadav
+//Version= 2.0.4
+
     import java.util.Scanner;
 
 public class pascal

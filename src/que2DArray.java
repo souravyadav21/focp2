@@ -1,3 +1,6 @@
+//Author= Sourav Yadav
+//Version= 1.2.4
+
 import java.util.Scanner;
 public class que2DArray
 {

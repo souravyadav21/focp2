@@ -1,20 +1,19 @@
 //Author= Sourav Yadav
-//Version= 2.1.4
-
+//Version= 2.0.6
 class Circle
 {
-	private int rd;
-	void Circle()
-   {
-      this.rd=2;
-    }
+	private int w;
+	Circle()
+	{
+		w=100000;
+	}
 
 	
      void displayArea()
-     {
-	  double a =  3.14*rd*rd;
+     { //w=2;
+	  double a =  3.14*w*w;
 	  System.out.println("area is "+a);
-      System.out.println("radius "+rd);	
+      System.out.println("radius "+w);	
 	  }
 }
 
@@ -22,7 +21,7 @@ class Circle
 
 
 
-class CircleDemo
+class C
 {
 	
 	public static void main(String args[])

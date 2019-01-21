@@ -1,3 +1,5 @@
+//Author= Sourav Yadav
+//Version= 2.0.5
 import java.util.Scanner;
  
 public class MergeArrays {

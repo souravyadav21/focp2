@@ -1,3 +1,5 @@
+//author = sourav yadav
+//version=1.0.0
 public class Addtwonumbers{
 	public static void main(String[] args)
 {

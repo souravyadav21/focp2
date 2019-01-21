@@ -1,11 +1,14 @@
+//Author= Sourav Yadav
+//Version= 2.2.4
+
 public class Convt_min
 {
 	public static void main(String args[])
 	{
 	float min, days, months, years;
-	min = 525600;
+	m = 525600;
 	System.out.println("Minutes=525600");
-	days = min/(24*60);
+	days = m/(24*60);
 	months =  days/30;
     years = months/12;
     System.out.println("Number of years =" +years);

@@ -1,3 +1,6 @@
+//Author= Sourav Yadav
+//Version= 3.0.4
+
 import java.util.Arrays;
 import java.util.Scanner;
 public class MyClass {

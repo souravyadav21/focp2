@@ -1,3 +1,5 @@
+//Author= Sourav Yadav
+//Version= 2.0.1
 import java.util.Scanner;
 public class ArithmaticOperators {  
    public static void main (String[] args) {
